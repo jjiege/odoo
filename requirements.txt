@@ -7,6 +7,7 @@ docutils
 html2text
 idna
 Jinja2
+libsass
 lxml
 MarkupSafe
 num2words
